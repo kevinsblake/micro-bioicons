@@ -1,1 +1,1 @@
-# microBio-Icons
+# µBio-Icons
